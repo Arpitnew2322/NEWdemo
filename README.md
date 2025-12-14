@@ -1,3 +1,3 @@
-# NEWdemo
-this is my first git repo
-author = Arpit Sharma
+This is my first repo 
+<br>
+Author = Arpit Sharma 
